@@ -1,0 +1,28 @@
+\ttl@change@i {\@ne }{chapter}{2em}{\vspace {.0\baselineskip }\sihao \song }{\prechaptername ~\thecontentslabel ~\postchaptername \quad }{}{\!\titlerule *[5pt]{$\cdot $}\!\!\!\!\sihao \contentspage }\relax 
+\ttl@change@v {chapter}{}{}{}\relax 
+\ttl@change@i {\@ne }{section}{3em}{\vspace {-0.1\baselineskip }\xiaosi \song }{\thecontentslabel \quad }{}{\!\titlerule *[5pt]{$\cdot $}\!\!\!\!\xiaosi \contentspage }\relax 
+\ttl@change@v {section}{}{}{}\relax 
+\ttl@change@i {\@ne }{subsection}{4em}{\vspace {-0.2\baselineskip }\wuhao \song }{\thecontentslabel \quad }{}{\!\titlerule *[5pt]{$\cdot $}\!\!\!\!\wuhao \contentspage }\relax 
+\ttl@change@v {subsection}{}{}{}\relax 
+\contentsline {chapter}{\numberline {1}问题背景}{1}{section*.3}
+\contentsline {section}{\numberline {1.1}项目背景}{1}{section*.4}
+\contentsline {subsection}{\numberline {1.1.1}背景一}{1}{section*.5}
+\contentsline {subsection}{\numberline {1.1.2}背景二}{1}{section*.6}
+\contentsline {subsection}{\numberline {1.1.3}项目制作的目的与意义}{1}{section*.7}
+\contentsline {subsection}{\numberline {1.1.4}项目创新点}{1}{section*.8}
+\contentsline {chapter}{\numberline {2}方案选择与论证}{2}{section*.9}
+\contentsline {section}{\numberline {2.1}蓝牙通信协议}{2}{section*.10}
+\contentsline {chapter}{\numberline {3}嵌入式智能硬件设计}{3}{section*.11}
+\contentsline {section}{\numberline {3.1}总体设计}{3}{section*.12}
+\contentsline {section}{\numberline {3.2}硬件模块}{3}{section*.13}
+\contentsline {section}{\numberline {3.3}NFC模块}{3}{section*.14}
+\contentsline {section}{\numberline {3.4}BLE通信模块}{3}{section*.16}
+\contentsline {chapter}{\numberline {4}说明}{4}{section*.17}
+\contentsline {section}{\numberline {4.1}使用方法}{4}{section*.18}
+\contentsline {section}{\numberline {4.2}使用建议}{4}{section*.19}
+\contentsline {subsection}{\numberline {4.2.1}普适问题}{4}{section*.20}
+\contentsline {subsection}{\numberline {4.2.2}细节问题}{4}{section*.21}
+\contentsline {subsection}{\numberline {4.2.3}其他说明}{4}{section*.22}
+\contentsline {section}{\numberline {4.3}例子}{5}{section*.23}
+\contentsline {chapter}{参考文献}{7}{section*.27}
+\contentsfinish 

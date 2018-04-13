@@ -1,0 +1,377 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2016.11.7)  19 MAY 2017 13:30
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./cover.tex
+(./cover.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+! Undefined control sequence.
+l.3 \cheading
+             {2017å…¨å›½å¤§å­¦ç”Ÿæ•°å­¦å»ºæ¨¡ç«èµ›}      % è®¾ç½®æ­£æ–‡çš„é...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \cheading{2
+               017å…¨å›½å¤§å­¦ç”Ÿæ•°å­¦å»ºæ¨¡ç«èµ›}      % è®¾ç½®æ­£æ–‡çš„é...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no … in font nullfont!
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no › in font nullfont!
+Missing character: There is no ½ in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no ¤ in font nullfont!
+Missing character: There is no § in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no ­ in font nullfont!
+Missing character: There is no ¦ in font nullfont!
+Missing character: There is no ç in font nullfont!
+Missing character: There is no ” in font nullfont!
+Missing character: There is no Ÿ in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no • in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no ­ in font nullfont!
+Missing character: There is no ¦ in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no ç in font nullfont!
+Missing character: There is no « in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no è in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no › in font nullfont!
+! Undefined control sequence.
+l.4 \ctitle
+           {è®ºæ–‡ä¸­æ–‡é¢˜ç›®}    % å°é¢ç”¨è®ºæ–‡æ ‡é¢˜ï¼Œè‡ªå·±å¯æ‰‹åŠ¨...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no è in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ‡ in font nullfont!
+Missing character: There is no ä in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ­ in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ‡ in font nullfont!
+Missing character: There is no é in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no ç in font nullfont!
+Missing character: There is no › in font nullfont!
+Missing character: There is no ® in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--8
+[]
+ []
+
+! Undefined control sequence.
+l.9 \cauthor
+            {æå››}            % å­¦ç”Ÿå§“å
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \cauthor{æ
+              å››}            % å­¦ç”Ÿå§“å
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no æ in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no › in font nullfont!
+Missing character: There is no › in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 9--18
+[] 
+ []
+
+! Undefined control sequence.
+l.22 \cdate
+           {\CJKnumber{\the\year}~å¹´~\CJKnumber{\the\month}~æœˆ~\CJKnumber{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 \cdate{\CJKnumber
+                      {\the\year}~å¹´~\CJKnumber{\the\month}~æœˆ~\CJKnumber{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \cdate{\CJKnumber{\the\year
+                                }~å¹´~\CJKnumber{\the\month}~æœˆ~\CJKnumber{...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no ¹ in font nullfont!
+Missing character: There is no ´ in font nullfont!
+! Undefined control sequence.
+l.22 \cdate{\CJKnumber{\the\year}~å¹´~\CJKnumber
+                                                {\the\month}~æœˆ~\CJKnumber{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no œ in font nullfont!
+Missing character: There is no ˆ in font nullfont!
+! Undefined control sequence.
+l.22 ...~å¹´~\CJKnumber{\the\month}~æœˆ~\CJKnumber
+                                                  {\the\day}~æ—¥}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no ¥ in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 22--25
+[]      
+ []
+
+! Undefined control sequence.
+l.26 \cabstract
+               {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ä
+      ¸­æ–‡æ‘˜è¦å†…å®¹
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ä in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ­ in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ‡ in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no è in font nullfont!
+Missing character: There is no ¦ in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no … in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no ¹ in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 27--29
+[]
+ []
+
+! Undefined control sequence.
+l.30 \ckeywords
+               {ä¸­å±±å¤§å­¦ï¼›æ¯•ä¸šè®ºæ–‡ï¼›æ¨¡æ¿ï¼›ä½¿ç”¨åˆ†å·æˆ–é€—å·...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 \ckeywords{ä
+                 ¸­å±±å¤§å­¦ï¼›æ¯•ä¸šè®ºæ–‡ï¼›æ¨¡æ¿ï¼›ä½¿ç”¨åˆ†å·æˆ–é€—å·...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ä in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ­ in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no ¤ in font nullfont!
+Missing character: There is no § in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no ­ in font nullfont!
+Missing character: There is no ¦ in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no ¼ in font nullfont!
+Missing character: There is no › in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no ¯ in font nullfont!
+Missing character: There is no • in font nullfont!
+Missing character: There is no ä in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no š in font nullfont!
+Missing character: There is no è in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no ‡ in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no ¼ in font nullfont!
+Missing character: There is no › in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¿ in font nullfont!
+Missing character: There is no ï in font nullfont!
+Missing character: There is no ¼ in font nullfont!
+Missing character: There is no › in font nullfont!
+Missing character: There is no ä in font nullfont!
+Missing character: There is no ½ in font nullfont!
+Missing character: There is no ¿ in font nullfont!
+Missing character: There is no ç in font nullfont!
+Missing character: There is no ” in font nullfont!
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no ˆ in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no · in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no ˆ in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no é in font nullfont!
+Missing character: There is no € in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no · in font nullfont!
+Missing character: There is no é in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no ´ in font nullfont!
+Missing character: There is no é in font nullfont!
+Missing character: There is no š in font nullfont!
+Missing character: There is no ” in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 30--31
+[] 
+ []
+
+! Undefined control sequence.
+l.38 \makecover
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \clearpage
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1])
+! Emergency stop.
+<*> ./cover.tex
+               
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 7 strings out of 493089
+ 141 string characters out of 6138425
+ 53199 words of memory out of 5000000
+ 3591 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 20i,4n,14p,127b,113s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
